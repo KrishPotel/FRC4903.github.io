@@ -1,0 +1,4 @@
+- Hardware for Vision Processing
+    - [Global shutter camera](https://www.amazon.com/Arducam-Distortion-Microphones-Computer-Raspberry/dp/B096M5DKY6/ref=sr_1_2_sspa?crid=2TPYT64EPUVF8&dib=eyJ2IjoiMSJ9.bDp-BH4E8d7xnQOtTbL2NPv-Z0CshyRKUAfs0YR_mOiSjowF40E07tTyvM-2V1Lq035uBrZfEtVuKDyCLzjFnnldRQsAqfVxhwLAEOnpG3BHY8HEH1blUlwrNo7ulD0cmHbdnKQdioCi1ghGD8LP1DPN3us7Xpw8VK8HzdSWC0Zy8S0STf43CDEO_Xz2iqFyVpKKr09PyMuVV-N39mt95rUX6xY7rikppDExGGrcHZU.W_coRIsVOFjQg8GP0Rlqu1VGvZurbJCAFLsKgrX_EZE&dib_tag=se&keywords=global%2Bshutter%2Bcamera&qid=1713474148&sprefix=global%2Bshutter%2Bcamera%2Caps%2C108&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1v)
+    - [LimeLight3G](https://limelightvision.io/products/limelight-3g)
+    - [Orange pi](https://www.amazon.com/dp/B0BN15SS83?ref=myi_title_dp&th=1)
