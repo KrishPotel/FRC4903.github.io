@@ -3,3 +3,4 @@
     - [Better global shutter camera](https://www.adafruit.com/product/5702)
     - [LimeLight3G](https://limelightvision.io/products/limelight-3g)
     - [Orange pi](https://www.amazon.com/dp/B0BN15SS83?ref=myi_title_dp&th=1)
+    - [Network Hub with 5 or more ports]
