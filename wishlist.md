@@ -5,5 +5,5 @@
     - [Orange pi](https://www.amazon.com/dp/B0BN15SS83?ref=myi_title_dp&th=1)
     - [Network Hub with 5 or more ports]
 - Better gyroscope
-    -[Peigon2](https://store.ctr-electronics.com/pigeon-2/)
-    -[ADXRS453](https://www.analog.com/en/products/adxrs453.html)
+    - [Peigon2](https://store.ctr-electronics.com/pigeon-2/)
+    - [ADXRS453](https://www.analog.com/en/products/adxrs453.html)
