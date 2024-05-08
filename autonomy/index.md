@@ -1,7 +1,7 @@
 # Pathplanner
 
 ## Basic AutoBuilder for Swerve drive
-Here we have the basic code for autobuilder from our 2024 robot code located in the [DriveSubsystem.cpp]([https://github.com/FRC4903/dev2024/blob/main/src/main/cpp/subsystems/DriveSubsystem.cpp?plain=1#L53](https://github.com/FRC4903/dev2024/blob/08b076a7fdc7a259e16161bdc3caf8a4634df35b/src/main/cpp/subsystems/DriveSubsystem.cpp#L53C9-L67C7)) file
+Here we have the basic code for autobuilder from our 2024 robot code located in the [DriveSubsystem.cpp](https://github.com/FRC4903/dev2024/blob/main/src/main/cpp/subsystems/DriveSubsystem.cpp?plain=1#L53) file
 ```cpp
     AutoBuilder::configureHolonomic(
       [this](){ return GetEstimatedPose(); },
